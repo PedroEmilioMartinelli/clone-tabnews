@@ -1,8 +1,7 @@
 import { Html } from "next/document";
 
 function Home() {
-    return <h2>Fala Henrique tudo certo? como ta ai na Espanha?
-    coloquei hospedei esse site aqui na web show de bola, foi sofrido, mas consegui </h2>
+    return <h2>Esse site aqui está em construçao, aguarde até que ele esteje pronto ou seja atualizado </h2>
 
 }
 
